@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(237, 116, 72);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+
+footer{
+    background-color: rgb(237, 116, 72);
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+}
+
+main{
+    text-align: center;
+    list-style-position: inside;
+}
+
+img{
+    padding: 1em;
+}
