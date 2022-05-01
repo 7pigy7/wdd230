@@ -1,3 +1,6 @@
+html{
+    font-family: 'Quicksand', sans-serif;    
+}
 header{
     background-color: rgb(237, 116, 72);
     align-items: center;
@@ -19,4 +22,11 @@ main{
 img{
     padding: 1em;
     max-width: 100%;
+}
+h3{
+    font-weight: bolder;
+}
+section{
+    background-color: rgb(241, 203, 166);
+    margin: 2%;
 }

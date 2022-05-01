@@ -1,7 +1,5 @@
 header{
     background-color: rgb(237, 116, 72);
-    display: grid;
-    grid-template-columns: 1fr 1fr;
     align-items: center;
     font-family: 'Shadows Into Light', cursive;
 }
